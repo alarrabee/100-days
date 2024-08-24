@@ -58,3 +58,13 @@ $ git bisect bad
 ```
 $ git bisect reset
 ```
+
+
+### Day 04: August 23nd, 2024
+**Today's Progress:** Set up Portfolio page layout with CSS grids using [CSS Grid Generator](https://cssgridgenerator.io/). Created header and footer components.
+![image](https://github.com/user-attachments/assets/d4aa3481-cc55-4309-90c9-7f71806a076f)
+
+
+**Thoughts:** I've worked with multiple CSS frameworks like Bootstrap, Tailwind CSS, and Materialize throughout class. These frameworks are fantastic for building projects quickly, ensuring consistency, and utilizing pre-designed components, all while maintaining cross-browser compatibility. However, what we didn’t cover was CSS Grid Layout!
+
+I recently came across CSS Grid in some web articles, and I couldn't wait to learn more about it. Unlike frameworks that require external libraries, CSS Grid is native to CSS, meaning you can use it without adding any extra dependencies. It provides a powerful grid system that allows you to design complex, custom layouts while keeping your codebase lightweight. It also helps to create responsive layouts that adapt to different screen sizes, sometimes without needing media queries AND you're no longer constrained by predefined classes and styles!
