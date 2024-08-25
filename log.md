@@ -68,3 +68,12 @@ $ git bisect reset
 **Thoughts:** I've worked with multiple CSS frameworks like Bootstrap, Tailwind CSS, and Materialize throughout class. These frameworks are fantastic for building projects quickly, ensuring consistency, and utilizing pre-designed components, all while maintaining cross-browser compatibility. However, what we didn’t cover was CSS Grid Layout!
 
 I recently came across CSS Grid in some web articles, and I couldn't wait to learn more about it. Unlike frameworks that require external libraries, CSS Grid is native to CSS, meaning you can use it without adding any extra dependencies. It provides a powerful grid system that allows you to design complex, custom layouts while keeping your codebase lightweight. It also helps to create responsive layouts that adapt to different screen sizes, sometimes without needing media queries AND you're no longer constrained by predefined classes and styles!
+
+
+### Day 05: August 21st, 2024
+**Today's Progress:**  Rearranged Portfolio CSS grids layout and added assorted images for layout and design enhancement. Images created using [Midjourney AI](https://www.midjourney.com/home)
+
+
+<img src=https://github.com/user-attachments/assets/700b7e90-4fd0-41c7-ad98-4de0ae7a4ed9 width='300' />
+<img src=https://github.com/user-attachments/assets/7b460dd3-94e6-47d0-a747-17f6c5993358 width='300' />
+<img src=https://github.com/user-attachments/assets/2edfdb4d-1211-4412-a268-3f5e51318bca width='300' />
