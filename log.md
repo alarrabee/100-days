@@ -77,3 +77,7 @@ I recently came across CSS Grid in some web articles, and I couldn't wait to lea
 <img src=https://github.com/user-attachments/assets/700b7e90-4fd0-41c7-ad98-4de0ae7a4ed9 width='300' />
 <img src=https://github.com/user-attachments/assets/7b460dd3-94e6-47d0-a747-17f6c5993358 width='300' />
 <img src=https://github.com/user-attachments/assets/2edfdb4d-1211-4412-a268-3f5e51318bca width='300' />
+
+
+### Day 06: August 21st, 2024
+**Today's Progress:** Continued the course "Git for Distributed Software Development" through Verizon/edX. Chapter 8 started.
