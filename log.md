@@ -81,3 +81,7 @@ I recently came across CSS Grid in some web articles, and I couldn't wait to lea
 
 ### Day 06: August 21st, 2024
 **Today's Progress:** Continued the course "Git for Distributed Software Development" through Verizon/edX. Chapter 8 started.
+
+
+### Day 07: August 21st, 2024
+**Today's Progress:** Added content to the About section of my Portfolio.
