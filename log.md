@@ -70,7 +70,7 @@ $ git bisect reset
 I recently came across CSS Grid in some web articles, and I couldn't wait to learn more about it. Unlike frameworks that require external libraries, CSS Grid is native to CSS, meaning you can use it without adding any extra dependencies. It provides a powerful grid system that allows you to design complex, custom layouts while keeping your codebase lightweight. It also helps to create responsive layouts that adapt to different screen sizes, sometimes without needing media queries AND you're no longer constrained by predefined classes and styles!
 
 
-### Day 05: August 21st, 2024
+### Day 05: August 24st, 2024
 **Today's Progress:**  Rearranged Portfolio CSS grids layout and added assorted images for layout and design enhancement. Images created using [Midjourney AI](https://www.midjourney.com/home)
 
 
@@ -79,9 +79,18 @@ I recently came across CSS Grid in some web articles, and I couldn't wait to lea
 <img src=https://github.com/user-attachments/assets/2edfdb4d-1211-4412-a268-3f5e51318bca width='300' />
 
 
-### Day 06: August 21st, 2024
+### Day 06: August 25st, 2024
 **Today's Progress:** Continued the course "Git for Distributed Software Development" through Verizon/edX. Chapter 8 started.
 
 
-### Day 07: August 21st, 2024
+### Day 07: August 26st, 2024
 **Today's Progress:** Added content to the About section of my Portfolio.
+
+
+### Day 08: August 27st, 2024
+**Today's Progress:** Continued the course "Git for Distributed Software Development" through Verizon/edX. Chapters 8-10 completed.
+- Chapter 8: Branches
+- Chapter 9: Diffs
+- Chapter 10: Merges
+
+Topics covered included creating and checking out a branch, branch naming and tags, differencing files, merge commands and rebasing.
