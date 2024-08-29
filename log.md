@@ -60,7 +60,7 @@ $ git bisect reset
 ```
 
 
-### Day 04: August 23nd, 2024
+### Day 04: August 23rd, 2024
 **Today's Progress:** Set up Portfolio page layout with CSS grids using [CSS Grid Generator](https://cssgridgenerator.io/). Created header and footer components.
 ![image](https://github.com/user-attachments/assets/d4aa3481-cc55-4309-90c9-7f71806a076f)
 
@@ -70,7 +70,7 @@ $ git bisect reset
 I recently came across CSS Grid in some web articles, and I couldn't wait to learn more about it. Unlike frameworks that require external libraries, CSS Grid is native to CSS, meaning you can use it without adding any extra dependencies. It provides a powerful grid system that allows you to design complex, custom layouts while keeping your codebase lightweight. It also helps to create responsive layouts that adapt to different screen sizes, sometimes without needing media queries AND you're no longer constrained by predefined classes and styles!
 
 
-### Day 05: August 24st, 2024
+### Day 05: August 24th, 2024
 **Today's Progress:**  Rearranged Portfolio CSS grids layout and added assorted images for layout and design enhancement. Images created using [Midjourney AI](https://www.midjourney.com/home)
 
 
@@ -79,18 +79,29 @@ I recently came across CSS Grid in some web articles, and I couldn't wait to lea
 <img src=https://github.com/user-attachments/assets/2edfdb4d-1211-4412-a268-3f5e51318bca width='300' />
 
 
-### Day 06: August 25st, 2024
+### Day 06: August 25th, 2024
 **Today's Progress:** Continued the course "Git for Distributed Software Development" through Verizon/edX. Chapter 8 started.
 
 
-### Day 07: August 26st, 2024
+### Day 07: August 26th, 2024
 **Today's Progress:** Added content to the About section of my Portfolio.
 
 
-### Day 08: August 27st, 2024
+### Day 08: August 27th, 2024
 **Today's Progress:** Continued the course "Git for Distributed Software Development" through Verizon/edX. Chapters 8-10 completed.
 - Chapter 8: Branches
 - Chapter 9: Diffs
 - Chapter 10: Merges
 
 Topics covered included creating and checking out a branch, branch naming and tags, differencing files, merge commands and rebasing.
+
+
+### Day 09: August 28th, 2024
+**Today's Progress:** Completed the course "Git for Distributed Software Development" through Verizon/edX. Chapters 11-13 completed. Course Completed!
+- Chapter 11: Managing Local and Remote Repositories
+- Chapter 12: Using Patches
+- Chapter 13: Advanced Git Interfaces: Gerrit
+
+Topics covered included cloning, pulling, pushing, publishing. Patches and Emailing. Gerrit
+
+**Thoughts:** Completed a Git for Distributed Software Development course and received my [certificate](https://courses.edx.org/certificates/2831f47b8e9c44c7a8ad21d994dbafbc)! I gained a deeper understanding of Git's inner workings and improved my confidence in navigating version control. This course has equipped me with advanced troubleshooting skills and will significantly enhance my efficiency in managing code repositories and collaborating on projects.
