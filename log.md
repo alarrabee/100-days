@@ -105,3 +105,13 @@ Topics covered included creating and checking out a branch, branch naming and ta
 Topics covered included cloning, pulling, pushing, publishing. Patches and Emailing. Gerrit
 
 **Thoughts:** Completed a Git for Distributed Software Development course and received my [certificate](https://courses.edx.org/certificates/2831f47b8e9c44c7a8ad21d994dbafbc)! I gained a deeper understanding of Git's inner workings and improved my confidence in navigating version control. This course has equipped me with advanced troubleshooting skills and will significantly enhance my efficiency in managing code repositories and collaborating on projects.
+
+
+### Day 10: August 29th, 2024
+**Today's Progress:** I spent my time today reviewing the Big O Notation. It is such an important concept and was only briefly touched on in bootcamp. I started reviewing the examples provided in Cracking the Coding Interview and really took my time to break down and work through each example. Key points I covered today include: 
+- O(n) - Linear Time
+- O(1) - Constant Time
+- O(log n) - Logarithmic Time
+- O(n log n) - Linearithmic Time
+
+**Thoughts:** I feel confident in my ability to explain each of the listed concepts so far but will continue to work with examples and problems to be able to correctly identify the runtimes of different algorithms relative to input size.
