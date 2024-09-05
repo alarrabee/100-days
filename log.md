@@ -115,3 +115,35 @@ Topics covered included cloning, pulling, pushing, publishing. Patches and Email
 - O(n log n) - Linearithmic Time
 
 **Thoughts:** I feel confident in my ability to explain each of the listed concepts so far but will continue to work with examples and problems to be able to correctly identify the runtimes of different algorithms relative to input size.
+
+
+### Day 11: September 4th, 2024
+**Today's Progress:** Jumping back into it after an extended holiday break. Started HarvardX's Computer Science for Web Programming course. I enrolled for the self-paced option before I committed to bootcamp and never fully dived into it until now. I will not complete it in time but will get what I can out of it.
+
+Computer science provides the foundational knowledge necessary for coding by teaching core concepts such as algorithms, data structures, and computational thinking. I would like to understand these principles to give myself a stronger foundation for writing more efficient and effective code as well as understand how different components of software interact.
+Key points I covered today include: 
+- Unary and Binary
+- Bits and Bytes
+- ASCII and Unicode
+- Algorithms *(hello again big-O)*
+- Pseudocode and Scratch
+
+Despite earning a degree in Chemistry, I've found coding to be a fascinating and enjoyable extension of my skills, pushing me to explore new ways of problem-solving and critical thinking. It’s been a fun way to apply my analytical mindset in a different field!
+
+In addition, I wanted to get more involved with the community. A [DEV Challenge](https://dev.to/challenges/frontend-2024-09-04) dropped today and I wanted to participate.
+
+DEV Challenges are like mini hackathons that are divided into different domains, such as "The Frontend Challenge" or "The AI Challenge," allowing participants to gain experience with new tools or showcase their skills publicly. Each challenge lasts about two weeks and may restart based on community interest, sometimes with new prompts. Challenges are designed to be small, approachable, and showcase creativity.
+
+If I submit it great, if I don't it will still be a good learning experience. 
+
+**Thoughts:** I admittedly froze up when starting the challenge. I didn't know what the best way to start was. Do I use React? Plain HTML, CSS, JavaScript? Something else? What am I missing. Should it be more? Am I overthinking it?...and this was just on the tech stack. I reminded myself that it didn't matter. Just get your fingers on the keyboard. You can change it later. Start simple. MVP and all that. So HTML, CSS and JS it is.
+
+Great! Done...and now...cool - my mind is suddenly a desert and it doesn't even have sand blowing around. It's hot and I can't think.
+
+Ok just start with a wireframe. Things just kind of piece themselves together right. I've been really into tarot cards lately. Some of the artwork is so incredibly beautiful. I was already thinking of building a super simple tarot card generator. Just something easy. Flip a card get a card. Since that was already sitting around let's use it. 
+
+Using AI I generated a couple of space themed tarot cards to use and placed them on the page. Things just grew from there. All the HTML has been provided, I just need to style it and make it reactive. It doesn't have to be 'good', it just has to exist. 
+
+Below is a very tentative idea. We'll see where it goes once I start building. https://github.com/alarrabee/space-edition
+
+![image](https://github.com/user-attachments/assets/88b6f77d-4743-4311-ba68-2e6568eadb70)
