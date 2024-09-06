@@ -147,3 +147,7 @@ Using AI I generated a couple of space themed tarot cards to use and placed them
 Below is a very tentative idea. We'll see where it goes once I start building. https://github.com/alarrabee/space-edition
 
 ![image](https://github.com/user-attachments/assets/88b6f77d-4743-4311-ba68-2e6568eadb70)
+
+
+### Day 12: September 5th, 2024
+**Today's Progress:** I read some advice and got some tips for my portfolio and with that I mapped out a wireframe.  
