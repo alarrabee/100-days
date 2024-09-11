@@ -1,4 +1,4 @@
-# 100 Days of Code Log
+# Code Log
 
 ### Day 0: August 19th, 2024
 It sure has been a wild 6 months. Let the debugging (and excitement) begin! 🪲
@@ -150,4 +150,8 @@ Below is a very tentative idea. We'll see where it goes once I start building. h
 
 
 ### Day 12: September 5th, 2024
-**Today's Progress:** I read some advice and got some tips for my portfolio and with that I mapped out a wireframe.  
+**Today's Progress:** I read some advice and got some tips for my portfolio and with that I mapped out a wireframe.
+
+
+### Day 13: September 10th, 2024
+**Today's Progress:** Did some minor work on the DEV Challenge. Set up basic CSS starter code. Some progress is better than no progress!
