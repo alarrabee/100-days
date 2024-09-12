@@ -155,3 +155,11 @@ Below is a very tentative idea. We'll see where it goes once I start building. h
 
 ### Day 13: September 10th, 2024
 **Today's Progress:** Did some minor work on the DEV Challenge. Set up basic CSS starter code. Some progress is better than no progress!
+
+
+### Day 14: September 11th, 2024
+**Today's Progress:** Made progress on the DEV Challenge by implementing a card flip effect. The card now flips on hover, showing an image on the front and relevant facts on the back. Functionality is in place, but adjustments are needed to improve content display.
+
+**Thoughts:** Implementing the card flip effect turned out to be more challenging than anticipated. Vanilla CSS offers a lot of depth and flexibility, and shows just how much more there is to learn about its capabilities.
+
+
