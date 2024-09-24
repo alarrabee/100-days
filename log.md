@@ -163,3 +163,20 @@ Below is a very tentative idea. We'll see where it goes once I start building. h
 **Thoughts:** Implementing the card flip effect turned out to be more challenging than anticipated. Vanilla CSS offers a lot of depth and flexibility, and shows just how much more there is to learn about its capabilities.
 
 
+### Day 15-21: September 12th-18th, 2024
+**Missed Post:** I have not been active here but I have been consistently building on my computer science knowledge with additional courses and books.
+
+
+### Day 22: September 19th, 2024
+**Missed Post:** I got the opportunity to attend Minnedemo hosted by [Minnestar](https://minnestar.org/). *"Minnedemo is a showcase for working technology products made in Minnesota. Demos are 7 minutes long and PowerPoint IS NOT ALLOWED. We like to think of it as Geek Show and Tell! It’s an energizing and informative evening for innovators, investors, and technologists of all kinds. Come see what the local scene is up to, with networking before, during, and afterward".*
+- [Abe](https://www.useabe.com/) : This is an at home service that connects you with a professional who will give you advice when you're stuck on your DIY project.
+- [Attentio](https://attentio.io/) : An AI training platform that teaches AI through conversation and allows it to fully generalize and permanently retain new concepts without large datasets.
+- [HabitAware](https://habitaware.com/) : This is an awareness bracelet that aims to build your awareness of body-focused repetitive behaviors like chronic hair pulling, skin picking, and nail biting - helping you to break unwanted habits.
+- [HLRBO](https://www.hlrbo.com/) : A platform that supports both hunters and landowners with property leasing.  
+- [OmegaVR](https://omegavr.com/) : A VR platform that aims to improve the lives of people with accessibility issues.
+- [The Poopcopter](https://calebolson.com/) : A self guided poop removal system using a drone, 3D printed pickup system and machine learning
+- [tinkl: Pee in Peace](https://tinkl-946316b8de2d.herokuapp.com/#/bathrooms) : An app that locates nearby gender-neutral and single-stall restrooms in the Minneapolis-St. Paul metropolitan area so that trans, nonbinary, and gender-nonconforming people are able to find safe restrooms where they can pee in peace.
+
+
+### Day 23: September 23rd, 2024
+**Today:** Got some work done on my portfolio. I was suffering from choice paralysis that was preventing me from moving forward. With some design inspiration from a friend I was able to get my hands on the keyboard again. I decided to head in a different direction choosing a simple and clean design instead. 
